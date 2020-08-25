@@ -104,7 +104,9 @@ a:hover {
     border: 1px solid grey;
 
     max-width: 100%;
-    margin: 35px;  
+    margin: 35px;
+
+    outline: none;
 }
 
 #sign-in {
